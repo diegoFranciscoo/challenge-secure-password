@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ValidateApplication {
+public class SecurePasswordApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ValidateApplication.class, args);
+		SpringApplication.run(SecurePasswordApplication.class, args);
 	}
 
 }
